@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=>, initial-scale=1.0" />
+    <title> My HTML Document</title>
+  </head>
+  <body bgcolor=" lightblue"><b>
+    <h1 align = "center">MY INFO</h1>
+    <p align = "center">My name is Diksha bajpai</p>
+    <p align = "center">I am available for hire</p>
+    <p align = "center">My hour old price was<strike> $10</strike> and the new price is <mark>$30</mark></p>
+    <p align = "center">Visit my website <a href = "https://github.com/">Click Here</a></p>
+   
+    <hr></b>
+<h2>Here is some of my clients</h2>
+<div class = "h">
+  <div id = "d">70x70</div>
+  <div id = "e">70x70</div>
+  <div id = "f">70x70</div>
+</div>
+<hr>
+    <ul type=" square"><h2><b>My Skills</b></h2>
+
+        <li> HTML</li>
+        <li> CSS</li>
+        <li> Javascript</li>
+        <ul type=" circle">
+          <li> Vuejs</li>
+          <li> React</li>
+          <li> Angular</li>
+          <ol type  = "number">
+            <li value ="4"> V4.0</li>
+            <li value ="4"> V5.0</li>
+            <li value ="4"> V6.0</li>
+            <li value ="4"> V7.0</li>
+        </ul>
+        <ul type=" circle"></ul>
+        <li>Python</li>
+
+
+<abbr title = "world health organisation">WHO </abbr>
+
+  </body>
+</html>
